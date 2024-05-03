@@ -1,0 +1,36 @@
+.styled-table {
+    border-collapse: collapse;
+    margin: 35px 0;
+    font-size: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 650px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.styled-table thead tr {
+
+    background-color: cornflowerblue;
+    color: white;
+    text-align: center;
+
+}
+.styled-table th,
+.styled-table td {
+    padding: 15px 20px;
+}
+
+.styled-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+
+
+.imagen{
+    width: 250px;
+}
+
+
+.styled-h1{
+    color: blue;
+    text-align: center;
+    
+}
